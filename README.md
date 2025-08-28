@@ -23,6 +23,21 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MMuusskkaann&show_icons=true&theme=radical" alt="GitHub Stats" height="160"_
 
+  ---
+
+## 🚀 Featured Projects
+- 📱 [Notes App (Flutter)](https://github.com/MMuusskkaann/NotesApp) – A simple note-taking app with clean UI  
+- 💱 [Currency Converter (C++)](https://github.com/MMuusskkaann/Currency_Converter) – Convert currencies with real-time exchange rates  
+- 🎵 [Spotify Clone (HTML/CSS)](https://github.com/MMuusskkaann/Spotify-Clone) – Music app UI clone  
+- 📝 [DSA Practice (Java/Python)](https://github.com/MMuusskkaann/DSA) – My solved DSA problems and notes  
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-chaudhary-6a7a62295)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muskanchaudhary1582005@gmail.com)
+
+
 
 
 
