@@ -31,6 +31,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+Thanks for visiting my GitHub profile! I enjoy creating meaningful projects and continuously learning new technologies
 
 
 
