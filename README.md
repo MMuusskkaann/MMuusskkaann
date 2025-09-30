@@ -21,6 +21,7 @@
   <img src="https://skillicons.dev/icons?i=dart,flutter,java,python,cpp,git,github,html,css,js,bootstrap,mysql" />
 </p>
 
+---
 
 Thanks for visiting my GitHub profile! I enjoy creating meaningful projects and continuously learning new technologies.
 
