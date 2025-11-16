@@ -20,7 +20,7 @@
 ---
 ## 💻 Languages & Tools I Use Most
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,flutter,dart,nodejs,java,python,cpp,mysql,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,flutter,dart,nodejs,java,python,cpp,mysql,mongodb,git,github,postman" />
 </p>
 
 ---
