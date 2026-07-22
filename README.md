@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Muskan Chaudhary (@MMuusskkaann)
+# 👋 Hi, I’m Muskan Chaudhary 
 
 💡 Passionate about **Mobile App Development** and building impactful digital solutions.  
 🌱 Currently learning **Flutter & Dart** and sharpening my **DSA skills in Java**.  
