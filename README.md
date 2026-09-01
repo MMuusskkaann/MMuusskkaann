@@ -5,7 +5,7 @@
 🎯 Goal: To contribute to open source and grow as a full-stack mobile developer.  
 📫 Reach me at: **chaudharymuskan234@gmail.com**  
 😄 Pronouns: **She/Her**  
-⚡ Fun fact: Always curious, always learning — code is my playground!  
+⚡ Fun fact: Always curious, always learning — code is my playground!! 
 
 ---
 
