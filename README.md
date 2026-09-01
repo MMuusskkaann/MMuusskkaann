@@ -1,11 +1,19 @@
 # Hi, I’m Muskan Chaudhary 
 
-💡 Passionate about **Mobile App Development** and building impactful digital solutions.  
-🌱 Currently learning **Flutter & Dart** and sharpening my **DSA skills in Java**.  
-🎯 Goal: To contribute to open source and grow as a full-stack mobile developer.  
-📫 Reach me at: **chaudharymuskan234@gmail.com**  
-😄 Pronouns: **She/Her**  
-⚡ Fun fact: Always curious, always learning — code is my playground!! 
+💡 **Passionate about Mobile App Development** and building impactful, user-focused digital solutions.
+
+🌱 Currently learning **Flutter & Dart**, while strengthening my **Data Structures & Algorithms skills in Java**.
+
+🚀 Exploring **Full-Stack Development** and continuously improving my problem-solving and software development skills.
+
+🎯 **Goal:** To contribute to open-source projects, build meaningful products, and grow as a **Full-Stack Mobile Developer**.
+
+📫 **Reach me:** [chaudharymuskan234@gmail.com](mailto:chaudharymuskan234@gmail.com)
+
+😄 **Pronouns:** She/Her
+
+⚡ **Fun fact:** Always curious, always learning, and always excited to turn ideas into code!
+ 
 
 ---
 
